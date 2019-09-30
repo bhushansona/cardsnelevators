@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDeck", "CardDeck\CardDeck.csproj", "{5744715C-C93A-4CFD-A1F7-F7964D614798}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{4056399E-BF1A-4992-A563-43D275913C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5744715C-C93A-4CFD-A1F7-F7964D614798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5744715C-C93A-4CFD-A1F7-F7964D614798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5744715C-C93A-4CFD-A1F7-F7964D614798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5744715C-C93A-4CFD-A1F7-F7964D614798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4056399E-BF1A-4992-A563-43D275913C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4056399E-BF1A-4992-A563-43D275913C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4056399E-BF1A-4992-A563-43D275913C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4056399E-BF1A-4992-A563-43D275913C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C22CD7-E362-48B4-8296-448C70E0F975}
+	EndGlobalSection
+EndGlobal

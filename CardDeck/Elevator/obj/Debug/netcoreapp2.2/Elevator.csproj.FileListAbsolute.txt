@@ -1,0 +1,11 @@
+C:\Bhushan\CardDeck\Elevator\bin\Debug\netcoreapp2.2\Elevator.deps.json
+C:\Bhushan\CardDeck\Elevator\bin\Debug\netcoreapp2.2\Elevator.runtimeconfig.json
+C:\Bhushan\CardDeck\Elevator\bin\Debug\netcoreapp2.2\Elevator.runtimeconfig.dev.json
+C:\Bhushan\CardDeck\Elevator\bin\Debug\netcoreapp2.2\Elevator.dll
+C:\Bhushan\CardDeck\Elevator\bin\Debug\netcoreapp2.2\Elevator.pdb
+C:\Bhushan\CardDeck\Elevator\obj\Debug\netcoreapp2.2\Elevator.csprojAssemblyReference.cache
+C:\Bhushan\CardDeck\Elevator\obj\Debug\netcoreapp2.2\Elevator.csproj.CoreCompileInputs.cache
+C:\Bhushan\CardDeck\Elevator\obj\Debug\netcoreapp2.2\Elevator.AssemblyInfoInputs.cache
+C:\Bhushan\CardDeck\Elevator\obj\Debug\netcoreapp2.2\Elevator.AssemblyInfo.cs
+C:\Bhushan\CardDeck\Elevator\obj\Debug\netcoreapp2.2\Elevator.dll
+C:\Bhushan\CardDeck\Elevator\obj\Debug\netcoreapp2.2\Elevator.pdb

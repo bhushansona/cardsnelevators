@@ -1,0 +1,11 @@
+C:\Bhushan\CardDeck\CardDeck\bin\Debug\netcoreapp2.2\CardDeck.deps.json
+C:\Bhushan\CardDeck\CardDeck\bin\Debug\netcoreapp2.2\CardDeck.runtimeconfig.json
+C:\Bhushan\CardDeck\CardDeck\bin\Debug\netcoreapp2.2\CardDeck.runtimeconfig.dev.json
+C:\Bhushan\CardDeck\CardDeck\bin\Debug\netcoreapp2.2\CardDeck.dll
+C:\Bhushan\CardDeck\CardDeck\bin\Debug\netcoreapp2.2\CardDeck.pdb
+C:\Bhushan\CardDeck\CardDeck\obj\Debug\netcoreapp2.2\CardDeck.csprojAssemblyReference.cache
+C:\Bhushan\CardDeck\CardDeck\obj\Debug\netcoreapp2.2\CardDeck.csproj.CoreCompileInputs.cache
+C:\Bhushan\CardDeck\CardDeck\obj\Debug\netcoreapp2.2\CardDeck.AssemblyInfoInputs.cache
+C:\Bhushan\CardDeck\CardDeck\obj\Debug\netcoreapp2.2\CardDeck.AssemblyInfo.cs
+C:\Bhushan\CardDeck\CardDeck\obj\Debug\netcoreapp2.2\CardDeck.dll
+C:\Bhushan\CardDeck\CardDeck\obj\Debug\netcoreapp2.2\CardDeck.pdb
